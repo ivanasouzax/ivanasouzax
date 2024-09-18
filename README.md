@@ -9,7 +9,7 @@
   <a href="https://steamcommunity.com/id/Ravenaplayer/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
 
-## ⭐️ Sobre mim
+## 💜 Sobre mim
 
 Sou estudante de <b>Ciência da Computação</b> na Universidade Estadual do Sudoeste da Bahia (UESB). Atualmente busco vaga na área de Desenvolvimento Front-end e me especializo através da Origamid. Por aqui gosto de compartilhar meus aprendizados durante a minha graduação, além de estudos e cursos voltados para <b>Web Design, UX/UI Design e Front-end</b>.
 
